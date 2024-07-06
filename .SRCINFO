@@ -1,0 +1,14 @@
+pkgbase = rguilayout
+	pkgdesc = A simple and easy-to-use raygui layouts editor
+	pkgver = 4.0
+	pkgrel = 2
+	url = https://github.com/raysan5/rguilayout
+	arch = x86_64
+	groups = raygui-dev
+	license = ZLIB
+	depends = raygui>=4.0
+	provides = rguilayout=4.0
+	source = https://github.com/raysan5/rguilayout/releases/download/4.0/rguilayout_v4.0_linux_x64.zip
+	sha256sums = efc30608b21689f7b077932af83227ff6e47bf9c24b81ef7f28adf91accf62a1
+
+pkgname = rguilayout
